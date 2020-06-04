@@ -1,6 +1,7 @@
 ---
 title: 'AI'
 permalink: /ai/
-layout: collections
+layout: category
+taxonomy: ai
 author_profile: true
 ---

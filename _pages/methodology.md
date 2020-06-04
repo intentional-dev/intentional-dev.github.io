@@ -1,6 +1,7 @@
 ---
 title: 'Methodology'
 permalink: /methodology/
-layout: categories
+layout: category
+taxonomy: methodology
 author_profile: true
 ---
