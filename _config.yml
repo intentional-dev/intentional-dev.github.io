@@ -60,7 +60,7 @@ plugins:
 author:
   name: 'Intentional Dev'
   avatar: '/assets/images/bio-photo.jpg'
-  bio: Researching programmed intentionality in s/w development.'
+  bio: 'Researching programmed intentionality in s/w development.'
   links:
     - label: 'Twitter'
       icon: 'fab fa-fw fa-twitter-square'
