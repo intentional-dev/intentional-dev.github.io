@@ -1,9 +1,19 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: 'About'
     url: /about/
+  - title: 'Posts'
+    url: /posts/
+  - title: 'Categories'
+    url: /categories/
+  - title: 'Tags'
+    url: /tags/
+
+research:
+  - title: 'Areas of Research'
+    children:
+      - title: 'Patterns and Syntax'
+        url: /patterns-and-syntax/
+      - title: 'Methodology'
+        url: /methodology/
+      - title: 'AI'
+        url: /ai/

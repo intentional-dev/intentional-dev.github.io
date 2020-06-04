@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: 'Intentional Dev'
+  name: 'Phil @intentional-dev'
   avatar: '/assets/images/bio-photo.jpg'
   bio: 'Researching programmed intentionality in s/w development.'
   links:
@@ -103,6 +103,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: 'research'
 
 category_archive:
   type: liquid
