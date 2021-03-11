@@ -14,11 +14,16 @@
 }
 
 .post-comment-button {
+  background-color: #356379;
+  color: #ffffff;
   border-radius: 0.4rem;
   padding: 0.4em 0.8em;
   margin: 1em 0;
+  text-decoration: none;
 }
-
+.post-comment-button:visited {
+  color: #ffffff;
+}
 #comments-wrapper {
   display: flex;
 }

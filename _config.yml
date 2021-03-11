@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 'Intentional Dev'
-subtitle: 'Researching programmed intentionality'
+subtitle: 'Researching applied intentionality'
 email: intentional-dev@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -61,7 +61,7 @@ plugins:
 author:
   name: 'Phil @intentional-dev'
   avatar: '/assets/images/bio-photo.jpg'
-  bio: 'Researching programmed intentionality in s/w development.'
+  bio: 'Researching applied intentionality in s/w development.'
   links:
     - label: 'Twitter'
       icon: 'fab fa-fw fa-twitter-square'
