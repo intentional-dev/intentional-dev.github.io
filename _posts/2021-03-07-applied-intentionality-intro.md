@@ -4,7 +4,7 @@ last_modified_at: 2021-03-11T16:20:02-05:00
 categories:
   - ai
 tags:
-  - Ai
+  - ai
   - project
 comments_id: 3
 classes: wide
