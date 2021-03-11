@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 'Intentional Dev'
+subtitle: 'Researching programmed intentionality'
 email: intentional-dev@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -92,7 +93,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
       comments: true
       share: true
       related: true
@@ -114,3 +114,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+issues_repo: intentional-dev/intentional-dev.github.io

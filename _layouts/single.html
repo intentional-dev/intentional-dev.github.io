@@ -60,7 +60,9 @@ include breadcrumbs.html %} {% endunless %} {% endif %}
             class="toc__menu" %}
           </nav>
         </aside>
-        {% endif %} {{ content }} {% if page.link %}
+        {% endif %} {{ content }} {%- if page.comments_id -%} {%- include
+        comments.html issue_id=page.comments_id -%} {%- endif -%} {% if
+        page.link %}
         <div>
           <a href="{{ page.link }}" class="btn btn--primary"
             >{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct
