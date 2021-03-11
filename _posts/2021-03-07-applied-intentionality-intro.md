@@ -7,6 +7,7 @@ tags:
   - Ai
   - project
 comments_id: 3
+classes: wide
 ---
 
 Applied Intentionality is the practical consideration of intentionality as it applies to machines and to the software that controls them. By allowing that machines have rational intentionality, we supplement the need to program them directly and open a channel of negotiation that existing and future AI technology can recognize and adapt to.

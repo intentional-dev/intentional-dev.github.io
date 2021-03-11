@@ -1,5 +1,5 @@
 ---
-title: 'Post: First post'
+title: 'First post'
 last_modified_at: 2021-03-09T16:20:02-05:00
 categories:
   - ai
@@ -7,6 +7,7 @@ tags:
   - Ai
   - project
 comments_id: 2
+classes: wide
 ---
 
 # Applied Intentionality - Whats it all about?

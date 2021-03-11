@@ -7,3 +7,29 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import 'minimal-mistakes'; // main partials
 @import 'comments';
+
+/*
+   Wide Pages
+   ========================================================================== */
+
+.wide {
+  .page {
+    @include breakpoint($large) {
+      padding-right: 10%;
+    }
+
+    @include breakpoint($x-large) {
+      padding-right: 10%;
+    }
+  }
+
+  .page__related {
+    @include breakpoint($large) {
+      padding-right: 10%;
+    }
+
+    @include breakpoint($x-large) {
+      padding-right: 10%;
+    }
+  }
+}
