@@ -1,6 +1,6 @@
 ---
 title: 'First post'
-last_modified_at: 2021-03-09T16:20:02-05:00
+last_modified_at: 2021-03-09T16:20
 categories:
   - ai
 tags:
@@ -29,4 +29,4 @@ So far, the best we can say about coded intentionality is that it is code lurkin
 
 I'll try to expand on the first three points in a later blog, but "code is intentional"? That sounds a bit tautological, especially when you say "intentional code is intentional". But what I'm really getting at here is that by applying intentionality directly to code, it becomes intentional in the sense that others can rationalize about it. And by others, I now include the idea of artificial agents.
 
-The primary focus of this research here at [intentional-dev](http://intentional-dev.com) is to establish patterns and invent mechanisms that will support coded intentionality, such that it can be mechanically associated with semantic functionality. Ideally, this would be an AI appointed task, a kind of augmented development, but there is also a lot of scope for inventing new kinds of program syntax that will allow humans to play the parts of machines. After all, humans - particularly the IT professional kind - exhibit levels of artificial intelligence that machines can only gasp at in wonder. And it would be silly not to take advantage of this capability.
+The primary focus of this research here at [intentional-dev](http://intentional-dev.com) is to establish patterns and invent mechanisms that will support coded intentionality, such that it can be mechanically associated with semantic functionality. Ideally, this would be an AI appointed task, a kind of augmented development, but there is also a lot of scope for inventing new kinds of program syntax that will allow humans to continue to play all of the parts. After all, humans - particularly those with an IT bias - have powers of rationality that machines can only gasp at in wonder, and it would be silly not to take advantage of this understated capability.
