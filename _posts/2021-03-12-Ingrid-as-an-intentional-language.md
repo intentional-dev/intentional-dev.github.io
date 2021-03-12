@@ -2,10 +2,9 @@
 title: 'Ingrid as an intentional language'
 last_modified_at: 2021-03-12T08:52:02-05:00
 categories:
-  - ai
-  - syntax
+  - patterns-and-syntax
+  - methodology
 tags:
-  - ai
   - project
   - ingrid
 comments_id: 6
